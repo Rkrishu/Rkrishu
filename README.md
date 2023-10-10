@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 📰 My new project [Starbuks landing page](https://github.com/Rkrishu/video-calling.git)
+- 📰 My new project [video calling](https://github.com/Rkrishu/video-calling.git)
 
 - 📫 How to reach me **rishurajrk2000@gmail.com**
 
